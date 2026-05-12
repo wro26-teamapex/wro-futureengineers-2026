@@ -1,4 +1,4 @@
-# <center>⛚ WRO 2026 ⛚ Team Apex ⛚</center>
+# <p align="center">⛚ WRO 2026 ⛚ Team Apex ⛚</p>
 ## Future Engineers Division
 
 ## Contents
