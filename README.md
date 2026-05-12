@@ -1,3 +1,9 @@
 # Team Apex
 ## WRO 2026 - Future Engineers
-Team members: Amos Tin, Hugo Tsang, Jasper Tsang
+
+# Contents
+- The Team
+- Challenge Overview
+- Capabilities
+- Design
+- Development Resources
