@@ -2,6 +2,7 @@
 ## Future Engineers Division
 
 ## Contents
+- The Team
 - Challenge Overview
 - Capabilities
 - Design
