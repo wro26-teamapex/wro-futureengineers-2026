@@ -1,6 +1,4 @@
-# <p align="center">⛚ WRO 2026 ⛚ **Team Apex** ⛚</p>
-## Future Engineers Division
-
+# <p align="center">⛚ WRO 2026 ⛚ Team Apex ⛚ FE Division ⛚</p>
 ## Contents
 - The Team
 - Challenge Overview
