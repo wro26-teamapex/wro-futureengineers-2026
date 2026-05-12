@@ -1,7 +1,7 @@
-# WRO 2026 ◀ Team Apex ▶
+# <center>⛚ WRO 2026 ⛚ Team Apex ⛚</center>
 ## Future Engineers Division
 
-## ▶ Contents
+## Contents
 - Challenge Overview
 - Capabilities
 - Design
