@@ -1,2 +1,3 @@
-# wro-futureengineers-2026
-Repository for WRO Future Engineers 2026, by Team Apex.
+# Team Apex
+## WRO 2026 - Future Engineers
+Team members: Amos Tin, Hugo Tsang, Jasper Tsang
